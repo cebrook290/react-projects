@@ -6,7 +6,7 @@ import RequestForm from '../Components/RequestForm'
 export default function About() {
   return (
     <div>
-      <h1 className='head'>About Us</h1>
+      <h1 className='head'>Contact Us</h1>
       
       <div  className='card p-3 border-0'>    
         <p className='p-3'>If you have any suggestions for movie, or event TV reviews, please fill out the contact form below!</p>
